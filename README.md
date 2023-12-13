@@ -15,3 +15,8 @@ Features are given machine learning manually.
 On the other hand, deep learning learns features directly from data.
 
 ![22](https://github.com/ArpitaSatsangi/DL/assets/107709451/424ca67e-19dc-4215-b82d-e7a0f6971ad4)
+
+
+## Project result:
+
+![result](https://github.com/ArpitaSatsangi/DL/assets/107709451/fcdd90b9-ab0c-4b82-90d0-f8dd13db6e97)
